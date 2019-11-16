@@ -3,6 +3,7 @@
 
 After you have installed Xcode 
     Open terminal and type (Install Xcode Command Line Tools) 
+        xcode-select --install
     
     stdc++.h is a file that you need to include in each your project of c++
     So you will have all the libraries activated
